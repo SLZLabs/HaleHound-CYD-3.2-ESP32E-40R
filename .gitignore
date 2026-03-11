@@ -1,0 +1,23 @@
+# PlatformIO build artifacts
+.pio/
+.vscode/
+
+# Backup files
+*.bak
+*.bak2
+*.bak3
+*.orig
+*.tmp
+
+# Development notes (not for release)
+FIRMWARE_PORT_PLAN.md
+PROGRESS_*.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~
